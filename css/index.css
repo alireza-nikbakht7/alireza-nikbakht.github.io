@@ -423,7 +423,11 @@
                                                                                                                                                     width: 310px !important;
                                                                                                                                                 }
                                                                                                                                                 .photoAbout {
+<<<<<<< HEAD
                                                                                                                                                     padding-left: 200px;
+=======
+                                                                                                                                                    padding-left: 100px;
+>>>>>>> 3716ae09e9c14b769c797b1275c948a0136c764e
                                                                                                                                                 }
                                                                                                                                                 .row3 {
                                                                                                                                                     /* font-family: DXRigraf; */
